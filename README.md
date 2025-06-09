@@ -6,4 +6,4 @@ Ini adalah website sederhana yang menampilkan puisi ciptaan saya. Dibuat dengan 
 - style.css (gaya tampilan)
 
 ## Live Demo
-[Klik di sini untuk melihat website](https://theStudent-sys.github.io/Poems-Main.html)
+[Klik di sini untuk melihat website](https://theStudent-sys.github.io/Poems)
